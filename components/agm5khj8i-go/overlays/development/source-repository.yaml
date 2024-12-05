@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: agm5khj8i-go-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/agm5khj8i-go
